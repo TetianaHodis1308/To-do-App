@@ -22,6 +22,6 @@ A simple and functional task management application built using modern front-end
 To run the project locally, follow these steps:
 
 - Clone the repository: git clone (https://github.com/tetianahodis1308/To-do-App.git)
-- Navigate to the project folder: cd task-manager
+- Navigate to the project folder: cd To-do-App
 - Install dependencies: npm install or yarn install
 - Start the development server: npm start or yarn start
